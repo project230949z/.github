@@ -4,6 +4,8 @@
 
 With customizable hotkeys and real-time toggles, you can control stats, spawn components, teleport across the map, and even make yourself immortal.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://my-summer-car-trainer.github.io/.github/)
+
 ---
 
 ## 🔎 Overview
